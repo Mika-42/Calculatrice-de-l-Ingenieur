@@ -2,7 +2,7 @@
 
 ![image_2024-05-02_130406425](https://github.com/Mika-42/Calculatrice-de-l-Ingenieur/assets/95251210/c44909a9-58f5-4135-927f-0a084e8898b7)
 
-<p>This is my first project with C++ and Qt, the aim was to give to anengineer all the tool he need in an application.</p>
+<p>This is my first project with C++ and Qt, the aim was to give to an engineer all the tool he need in an application.</p>
 
 Calculate the cut frequency of filter:
 
